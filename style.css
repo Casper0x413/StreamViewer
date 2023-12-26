@@ -1,0 +1,14 @@
+:root {}
+
+body , html {
+  height: 100vh;
+  margin: 0;
+  overflow-x: hidden;
+  padding: 0;
+  width: 100vw;
+}
+
+iframe {
+  border: none;
+  outline: none;
+}
